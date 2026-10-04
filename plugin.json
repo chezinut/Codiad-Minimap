@@ -1,5 +1,11 @@
-[{ "author" : "Andr3as",
-    "version": "0.1.2",
-    "name" : "MiniMap",
-    "url" : "https://github.com/Andr3as/Codiad-Minimap"
+[{
+    "author": "CheziNut, Andr3as, Liam Siira",
+    "version": "1.1.0",
+    "name": "MiniMap",
+    "url": "https://github.com/chezinut/Codiad-Minimap",
+    "config": [{
+        "file": "dialog.php",
+        "icon": "icon-map",
+        "title": "Minimap"
+    }]
 }]
